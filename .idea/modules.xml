@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Caso-Final-Entregador-2.iml" filepath="$PROJECT_DIR$/.idea/Caso-Final-Entregador-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Cuidado_de_los_animales/Cuidadodelosanimales.iml" filepath="$PROJECT_DIR$/Cuidado_de_los_animales/Cuidadodelosanimales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cuidado_de_los_animales/Cuidado_de_los_animales.iml" filepath="$PROJECT_DIR$/Cuidado_de_los_animales/Cuidado_de_los_animales.iml" />
       <module fileurl="file://$PROJECT_DIR$/GestiondeHabitats/GestiondeHabitats.iml" filepath="$PROJECT_DIR$/GestiondeHabitats/GestiondeHabitats.iml" />
     </modules>
   </component>
