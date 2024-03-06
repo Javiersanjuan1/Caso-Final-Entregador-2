@@ -5,7 +5,7 @@ public class Main {
         HabitatTerrestre bosque = new HabitatTerrestre("Bosque");
         HabitatAviario jaula = new HabitatAviario("Jaula de pájaros");
 
-        // Cambiar condiciones de los hábitats
+        // Cambiar condiciones de los háb
         acuario.cambiarTemperatura(25);
         acuario.cambiarHumedad(80);
         acuario.cambiarLimpieza(90);
