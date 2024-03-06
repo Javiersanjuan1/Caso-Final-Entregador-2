@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // Crear hábitats
+
         HabitatAcuatico acuario = new HabitatAcuatico("Acuario");
         HabitatTerrestre bosque = new HabitatTerrestre("Bosque");
         HabitatAviario jaula = new HabitatAviario("Jaula de pájaros");
